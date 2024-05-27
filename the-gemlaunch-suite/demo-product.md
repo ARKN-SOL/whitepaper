@@ -10,7 +10,7 @@ You can explore the GemLaunch Suite by accessing our demo product on the Devnet.
 
 ### 📣 IMPORTANT:  DEMO Product is running on Solana DEVNET. Devnet Solana has NO value. Further information: [Introduction to Solana Development](https://solana.com/docs/intro/dev) [How to get Solana devnet SOL (including airdrops and faucets)](https://solana.com/developers/guides/getstarted/solana-token-airdrop-and-faucets)
 
-### VSIT [https://arkenstone.gold/suite](https://arkenstone.gold/suite/) to try the DEMO PRODUCT
+### VISIT [https://arkenstone.gold/suite](https://arkenstone.gold/suite/) to try the DEMO PRODUCT
 
 Users can easily engage with the GemLaunch Suite by selecting the preview mode, enabling them to interact with the different widgets and experience its functionality firsthand. This hands-on approach empowers users to explore the suite's capabilities and understand its potential impact on their projects.
 
@@ -40,7 +40,7 @@ If you set a specific date for claiming Tokens, the sold Token will be held back
 
 **5) Reward distribution**
 
-During your different registratoins or Presale rounds, some users might qualify for additional boni as free bonus Token, NFT or other rewards. Arkenstone GemLaunch Suite has a built-in feature to automatically distribute those rewards to qualified users when they claim their Token.
+During your different registrations or Presale rounds, some users might qualify for additional bonuses, such as free bonus Token, NFT or other rewards. Arkenstone GemLaunch Suite has a built-in feature to automatically distribute those rewards to qualified users when they claim their Token.
 
 **6) Monitoring**
 

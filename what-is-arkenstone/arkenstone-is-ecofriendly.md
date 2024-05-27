@@ -12,4 +12,4 @@ Proof of Stake (PoS) is a consensus mechanism that replaces energy-intensive min
 
 Proof of History (PoH) is a mechanism unique to Solana that efficiently orders transactions without the need for intensive computational work. It uses a cryptographic clock to timestamp transactions, ensuring their integrity and order on the blockchain. This process makes consensus faster and more efficient.
 
-By combining PoS and PoH, Arkenstone which is build on Solana ensures a sustainable and environmentally friendly approach to blockchain technology while maintaining security and efficiency.
+By combining PoS and PoH, Solana ensures a sustainable and environmentally friendly approach to blockchain technology while maintaining security and efficiency. For this reason, it was chosen as the foundation of the Arkenstone project.&#x20;

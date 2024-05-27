@@ -3,7 +3,7 @@
 ### General advantages
 
 * **No Coding Skills Required**: The [GemLaunch Suite](https://arkenstone.gold/suite/) is designed for ease of use, eliminating the need for any coding expertise.
-* **Comprehensive Token Lifecycle Management**: Provides end-to-end management of the token lifecycle, from creation to distribution.
+* **Comprehensive Token Lifecycle Management**: Provides end-to-end management of the token lifecycle, from creation to distribution and beyond.
 * **User-Friendly Interface**: The platform features an intuitive interface, ensuring easy navigation and usability for all users.
 * **Seamless Website Integration**: Effortlessly integrates with existing websites, enabling smooth adoption and implementation.
 * **Real-Time Performance Insights**: The dashboard offers real-time insights into the performance of your ICO, helping you make informed decisions.

@@ -1,3 +1,7 @@
+---
+description: Fostering community engagement and growth
+---
+
 # Community
 
 Our approach to community building is centered on inclusivity, transparency, and active participation, aimed at creating a supportive ecosystem where members feel valued and empowered. Here's how we plan to cultivate an engaging community:
