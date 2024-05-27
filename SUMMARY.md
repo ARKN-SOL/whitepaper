@@ -14,6 +14,7 @@
   * [Demo Product](the-gemlaunch-suite/demo-product.md)
   * [Upcoming Features](the-gemlaunch-suite/upcoming-features.md)
 * [Tokenomics](tokenomics.md)
+* [Audit & Security](audit-and-security.md)
 * [Staking](staking.md)
 * [Roadmap](roadmap.md)
 * [Community](community.md)
