@@ -7,7 +7,7 @@ description: Participate in the referral system to earn free $ARKN
 🌟Introducing the New Referral Mode at Arkenstone!  Visit: [https://arkenstone.gold/#rewards](https://arkenstone.gold/#rewards)\
 Unlock your referral link and start earning free $ARKN for each new buyer you refer. Take advantage now, get your referral link, share it, and watch your $ARKN stack up!&#x20;
 
-1️⃣Purchase around 15USD (1700 $ARKN) or more to unlock the referral system.&#x20;
+1️⃣Purchase around 20USD (1700 $ARKN) or more to unlock the referral system.&#x20;
 
 2️⃣Earn bonus Token when someone completes a qualifying purchase after using your referral link.&#x20;
 

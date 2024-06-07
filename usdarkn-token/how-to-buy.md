@@ -13,35 +13,40 @@ description: >-
 
 2. **Purchase SOL**\
    To buy $ARKN Tokens, you need to have Solana (SOL). Here's what to do:
-   * **Using a Crypto Exchange**: Go to a crypto exchange like Binance, Coinbase, or Kraken to purchase SOL
-   * **Transfer to Your Wallet**: After purchasing, transfer the tokens to your crypto wallet.
-   * **Direct Purchase**: Some wallets allow you to buy tokens directly within the app.\
+
+* **Using our built-in SOL ATM:** Go to the ["SOL ATM"](https://arkenstone.gold/) section of our GemLaunch widget and enjoy super fast deBridge swaps. You can easily fund your wallet with Solana (SOL) and participate in our presale using any Token or Coin from Ethereum-based chains!
+* **Using a Crypto Exchange**: Go to a crypto exchange like Binance, Coinbase, or Kraken to purchase SOL. After purchasing, transfer SOL to your crypto wallet.
+* **Direct Purchase**: Some wallets allow you to buy tokens directly within the app.\
+
 
 3. **Connect to the Arkenstone Presale Website**\
    Next, visit the [Arkenstone presale](https://arkenstone.gold/) website and follow these steps:
-   1. Click on ‘Connect Wallet.’
-   2. Choose your wallet (Phantom, Solflare etc.).
-   3. Follow the prompts to securely connect your wallet to the presale platform.\
 
-4.  **Buy $ARKN Token**\
-    With your wallet connected, you’re ready to buy $ARKN Tokens:
+* Click on ‘Connect Wallet.’
+* Choose your wallet (Phantom, Solflare etc.).
+* Follow the prompts to securely connect your wallet to the presale platform.\
 
-    1. **Input Quantity**: Enter the amount of SOL you want to invest or $ARKN you want to buy.
-    2. **Start your Transaction**: Click ‘Buy Now’ to start your purchase.
-    3. **Confirm your Transaction**: Your Wallet will now open asking you to confirm the transaction.
 
-    If you’re interested in receiving more $ARKN for free you can also swich to the “[Rewards](https://arkenstone.gold/#rewards)” section to see your progress. The more $ARKN you buy the more rewards will be unlocked.
+4. **Buy $ARKN Token**\
+   With your wallet connected, you’re ready to buy $ARKN Tokens:
 
-    Feel free to use your referral link to post it on your social media or send it to your friends to receive extra free $ARKN for every purchase you brought in.\
+* **Input Quantity**: Enter the amount of SOL you want to invest or $ARKN you want to buy.
+* **Start your Transaction**: Click ‘Buy Now’ to start your purchase.
+* **Confirm your Transaction**: Your Wallet will now open asking you to confirm the transaction.
 
-5.  **Claim $ARKN Token**\
-    After the presale ends, Arkenstone will provide instructions on how to claim your tokens:
+If you’re interested in receiving more $ARKN for free you can also swich to the “[Rewards](https://arkenstone.gold/#rewards)” section to see your progress. The more $ARKN you buy the more rewards will be unlocked.
 
-    1. Return to the [Arkenstone presale](https://arkenstone.gold/) website.
-    2. Follow the instructions to access and claim your $ARKN Token and all of your rewards.
-    3. Your tokens will be available in your crypto wallet.
+Feel free to use your referral link to post it on your social media or send it to your friends to receive extra free $ARKN for every purchase you brought in.\
 
-    By following these steps, you can easily participate in 400% price increase of the Arkenstone presale and join the $ARKN community. Happy investing and enjoy your rewards.
+
+5. **Claim $ARKN Token**\
+   After the presale ends, Arkenstone will provide instructions on how to claim your tokens:
+
+* Return to the [Arkenstone presale](https://arkenstone.gold/) website.
+* Follow the instructions to access and claim your $ARKN Token and all of your rewards.
+* Your tokens will be available in your crypto wallet.
+
+By following these steps, you can easily participate in 400% price increase of the Arkenstone presale and join the $ARKN community. Happy investing and enjoy your rewards.
 
 ## Where Can I Buy Arkenstone ($ARKN)
 

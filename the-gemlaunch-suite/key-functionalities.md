@@ -37,6 +37,10 @@ The reward section provides users with details on the various rewards they can e
 
 The referral system allows users to generate a unique referral link. By sharing this link, users can earn extra token for every new buyer they refer to the platform. The system automatically tracks referred sales and distributes token as part of the reward program on claim day. This mode encourages community growth and rewards users for their promotional efforts.
 
+💸 **Crypto ATM**
+
+Utilizing super fast deBridge swaps, users can now easily fund their wallet with Solana (SOL) and participate in the presale using any Token or Coin from Ethereum-based chains!
+
 <figure><img src="../.gitbook/assets/7 functionalities.png" alt=""><figcaption><p>Functionalities of The GemLaunch Suite</p></figcaption></figure>
 
 Check out our free DEMO: [https://arkenstone.gold/suite/](https://arkenstone.gold/suite/)

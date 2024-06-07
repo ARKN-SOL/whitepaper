@@ -27,5 +27,3 @@ The [Arkenstone presale](https://arkenstone.gold/) begins on May 16th, 2024, off
 For a detailed breakdown of the token allocation, check out the Arkenstone [tokenomics](https://arkenstone.gold/#tokenomics).
 
 <figure><img src=".gitbook/assets/Tokenomics_v6_tansp.png" alt=""><figcaption></figcaption></figure>
-
-##
