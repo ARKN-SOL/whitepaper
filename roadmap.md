@@ -18,8 +18,8 @@ description: >-
 ## Stage 2 - Arkenstone Unveiling
 
 * **Private Presale Launch of $ARKN**: The $ARKN Token enters its private presale phase, offering exclusive opportunities to early supporters.
-* **Qualify for Airdrop and 10% Bonus**: Participants in the presale have the chance to qualify for Airdrops and receive a 10% bonus.
-* **Development of $ARKN Staking**: Introducing $ARKN Staking to provide holders with additional earning opportunities and incentivize long-term investment.
+* **Qualify for Airdrop and Bonus**: Participants in the presale have the chance to qualify for Airdrops and receive a $ARKN bonus.
+* **Development of $ARKN Staking**: Working on $ARKN Staking to provide holders with additional earning opportunities and incentivize long-term investment.
 * **Advertisement and Giveaways**: Increasing visibility through targeted advertisements and conducting giveaways to reward community members.
 * **Influencer Collaborations**: promote Arkenstone, leveraging it´s reach and credibility to increase awareness and attract a wider audience to the project.
 
@@ -27,6 +27,7 @@ description: >-
 
 * **Public Presale and Price Increase of $ARKN**: The $ARKN Token becomes available to the public during the [presale phase](https://arkenstone.gold/), accompanied by a potential increase in price as demand grows.
 * **3,6% Price Surge per 24h**
+* **GemDropper:** Development of the GemLaunch Suite Airdrop module "GemDropper"
 * **Influencer Collaborations**: Continue engaging multiple influencers to expand our reach, enhancing visibility and attracting a diverse audience.
 * **Marketing:** Implementing strategic marketing campaigns to raise awareness, drive engagement, and grow the Arkenstone community.
 * **Development of GemLaunch Suite:** Creating [GemLaunch ICO Suite](https://arkenstone.gold/suite/) with tools and services for Initial Coin Offerings (ICOs) based on the $ARKN ecosystem.
@@ -34,7 +35,7 @@ description: >-
 ## Stage 4 - Arkenstone Refinement
 
 * **$ARKN Launch and Claim**: Official launch of the $ARKN Token, allowing participants to claim their tokens.
-* **Launch of Staking**: Introducing staking functionalities for $ARKN holders to earn rewards by participating in network validation.
+* **Launch of Staking**: Introducing staking functionalities for $ARKN holders to earn rewards.
 * **Bonus Token Distribution**: Distributing bonus Tokens to reward early supporters and incentivize further engagement.
 * **NFT Distribution**: Distributing Non-Fungible Tokens (NFTs) as part of promotional activities and community engagement.
 * **$ARKN Listing on DEX**: Listing $ARKN on decentralized exchanges (DEX) to increase accessibility and liquidity.
@@ -43,8 +44,8 @@ description: >-
 
 ## Stage 5 - Arkenstone Enchantment
 
-* **Increased Staking Rewards**: Enhancing staking rewards to further incentivize participation and network security.
-* **Airdrops**: Conducting airdrops to distribute tokens to existing holders or new community members.
+* **Increased Staking Rewards**: Enhancing staking rewards to further incentivize participation.
+* **Airdrops**: Conducting airdrops using the GemDropper to distribute tokens to existing holders or new community members.
 * **Coin Gecko and Coin Market Cap Listing**
 * **CEX Listings**: Listing $ARKN on centralized exchanges (CEX) for increased exposure and trading opportunities.
 * **Announce New Use-Cases**: Introducing new use-cases and applications for $ARKN to expand its utility and value proposition.
