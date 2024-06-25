@@ -17,12 +17,13 @@ description: >-
    🚀 …
 2. **WordPress Support** \
    🚀 All-in-One WordPress Plugin Solution
-3. **Multi-Chain Support** \
+3. **increased Multi Chain support**\
    🚀 EVM Chains\
    🚀 …
 4. **Premium Features** \
-   🚀 Built-In Audit Service with Our Partners\
-   🚀 One-Click Marketing Service with Our Partners
+   🚀 built in Audit service with our partners \
+   🚀 1 click Marketing service with our partners \
+   🚀 Token vesting
 
 
 

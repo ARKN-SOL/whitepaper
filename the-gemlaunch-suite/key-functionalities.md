@@ -3,6 +3,8 @@
 ### General advantages
 
 * **No Coding Skills Required**: The [GemLaunch Suite](https://arkenstone.gold/suite/) is designed for ease of use, eliminating the need for any coding expertise.
+* **Multichain Support: S**upports 13 different blockchain networks and more than 4000 token, enabling seamless transactions and interactions across various ecosystems.&#x20;
+* **GemDropper**: allows projects to easily distribute tokens ([example Twitter giveaway](https://x.com/ARKNsol/status/1802222907801608295)) to a large number of users through a seamless and user-friendly interface.
 * **Comprehensive Token Lifecycle Management**: Provides end-to-end management of the token lifecycle, from creation to distribution and beyond.
 * **User-Friendly Interface**: The platform features an intuitive interface, ensuring easy navigation and usability for all users.
 * **Seamless Website Integration**: Effortlessly integrates with existing websites, enabling smooth adoption and implementation.
@@ -12,6 +14,14 @@
 * **Security and Transparency**: Two independent audits have been conducted to ensure the project’s security and transparency. You can view the audits [here](https://arkenstone.gold/#audit).
 
 ### Available Widgets
+
+🔁**Multichain**
+
+Supports over 13 different blockchain networks, enabling seamless transactions and interactions across various ecosystems. This integration allows users to purchase tokens directly within the GemLaunch Suite, enhancing flexibility and accessibility for investors and developers alike.
+
+**💎Airdrop**
+
+The GemLaunch Gemdropper airdrop widget allows projects to easily distribute tokens ([example Twitter giveaway](https://x.com/ARKNsol/status/1802222907801608295)) to a large number of users through a seamless and user-friendly interface. It automates the airdrop process, ensuring efficient and secure token distribution to the intended recipients.
 
 **📋Register for Whitelist**
 
