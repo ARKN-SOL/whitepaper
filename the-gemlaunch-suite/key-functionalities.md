@@ -19,9 +19,10 @@
 
 Supports over 13 different blockchain networks, enabling seamless transactions and interactions across various ecosystems. This integration allows users to purchase tokens directly within the GemLaunch Suite, enhancing flexibility and accessibility for investors and developers alike.
 
-**💎Airdrop**
+**💎Airdrop + Blink**
 
-The GemLaunch Gemdropper airdrop widget allows projects to easily distribute tokens ([example Twitter giveaway](https://x.com/ARKNsol/status/1802222907801608295)) to a large number of users through a seamless and user-friendly interface. It automates the airdrop process, ensuring efficient and secure token distribution to the intended recipients.
+The GemLaunch Gemdropper airdrop widget allows projects to easily distribute tokens ([example Twitter giveaway](https://x.com/ARKNsol/status/1819377386841846065)) to a large number of users through a seamless and user-friendly interface. It automates the airdrop process, ensuring efficient and secure token distribution to the intended recipients.\
+Our [Solana Blink](https://x.com/ARKNsol/status/1816407281744896143) enables users to claim token directly on X without leaving the platform.
 
 **📋Register for Whitelist**
 
