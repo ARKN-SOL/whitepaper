@@ -37,7 +37,7 @@ As Arkenstone embarks on its journey, early adopters stand to reap the greatest 
 
 ## Community-driven Growth
 
-At the heart of Arkenstone is a vibrant and passionate community dedicated to realizing the project's vision. By joining the ARKN [community](https://zealy.io/cw/arkenstonecommunity/), investors gain access to a network of like-minded individuals who share a common goal of unlocking wealth and prosperity. Through collaboration, education, and collective action, the ARKN community drives growth and fosters innovation, creating value for all stakeholders.
+At the heart of Arkenstone is a vibrant and passionate community dedicated to realizing the project's vision. By joining the ARKN [community](https://t.me/ARKNsolana), investors gain access to a network of like-minded individuals who share a common goal of unlocking wealth and prosperity. Through collaboration, education, and collective action, the ARKN community drives growth and fosters innovation, creating value for all stakeholders.
 
 
 
